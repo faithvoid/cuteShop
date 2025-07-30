@@ -1,5 +1,6 @@
 # cuteShop
 A cute shop for XBMC4Xbox.
+![](default.tbn)
 
 ## How to Use:
 - Install the latest release of cuteShop
