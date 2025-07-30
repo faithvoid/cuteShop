@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<settings>
+
+    <category label="Settings">
+    	<setting type="lsep" label="General" />
+        <setting id="DOWNLOAD_DIRECTORY" type="folder" label="Download Directory" default="" />
+        <setting id="DOWNLOAD_ATTACHER" type="bool" label="Download Attacher .XBE" default="true" />
+        <setting id="GAMEPAD_OSK" type="bool" label="Gamepad Keyboard" default="false" />
+    </category>
+
+</settings>
