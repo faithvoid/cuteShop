@@ -1,0 +1,14 @@
+<addon id="script.cuteShop" name="cuteShop" version="1.0.0" provider-name="faithvoid + MobCat">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+    </requires>
+    <extension point="xbmc.python.script" library="default.py">
+        <provides>programs</provides>
+        <cache>no</cache>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>cuteShop - A very cute shop for XBMC4Xbox!</summary>
+        <description>Download games, demos, homebrew, and more, from the cutest shop on the Xbox!</description>
+        <platform>xbox</platform>
+    </extension>
+</addon>
