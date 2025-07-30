@@ -17,6 +17,7 @@ A cute shop for XBMC4Xbox.
 - Background download mode (probably unstable, but may download with a smaller chunk size to take into account memory usage from media or whatever)
 - Explore all available Rapid Access Codes via API.
 - Better UI design?
+- Batch downloading via .txt file
 
 
 ## Credits:
